@@ -2,7 +2,7 @@
 This script is used within [QGIS](https://github.com/qgis/QGIS) to facilitate the automatic download of large datasets of Sentinel-2 imagery.
 The script uses the [Sentinelhub-py](https://github.com/sentinel-hub/sentinelhub-py) package to authenticate, retrieve the catalog and finally download the available tiles within the requested area from Sentinel Hub.
 \
-The script has support for generating NDSI, NDWI and NDVI currently.\
+The script has support for generating NDSI, NDWI and NDVI currently.
 
 ---
 
